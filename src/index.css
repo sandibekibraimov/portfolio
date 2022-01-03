@@ -1,0 +1,69 @@
+:root {
+  /* font sizes */
+  --font-size-h1: 2.6rem;
+  --font-size-h2: 2rem;
+  --font-size-h3: 1.6rem;
+  --font-size-h4: 1.2rem;
+  --font-size-p: 1rem;
+
+  /* colors */
+  --primary: #222831;
+  --secondary: #00adb5;
+  --dark: #393e46;
+  --light: #eeeeee;
+  --white: #fff;
+  --black: #000;
+
+  /* margin and padding */
+  --padding-x1: 2rem;
+  --padding-y1: 2rem;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'JetBrains Mono', monospace;
+}
+
+body {
+  background-color: var(--white);
+}
+
+.wrapper {
+  padding: var(--padding-y1) var(--padding-x1);
+  width: 100%;
+}
+
+h1 {
+  font-size: var(--font-size-h1);
+}
+h2 {
+  font-size: var(--font-size-h2);
+}
+h3 {
+  font-size: var(--font-size-h3);
+}
+h4 {
+  font-size: var(--font-size-h4);
+}
+p {
+  font-size: var(--font-size-p);
+}
+
+button {
+  border: 1px solid var(--primary);
+  padding: 0.5rem 1rem;
+  text-transform: uppercase;
+  font-size: var(--font-size-h4);
+  background-color: var(--primary);
+  color: var(--white);
+  border-radius: 0.5rem;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
+
+button:hover {
+  background-color: var(--white);
+  color: var(--primary);
+}
