@@ -18,14 +18,15 @@ const Index = () => {
             color: darkMode && '#fff',
           }}
         >
-          I am a frontend engineer with background in computer systems and
-          networks. I have 12+ years of IT support and technical sales
-          experience which gives me a solid foundation in my software
-          engineering career. Recently, I graduated from the{' '}
-          <strong>General Assembly web development bootcamp.</strong> I am
-          passionate about software engineering and solving complex problems
-          through coding, and I am excited to work with other wonderful
-          engineers and learn so much more!
+          Hi, my name is Sandibek Ibraimov and I am a frontend developer with
+          engineering background in computer systems and networks. I have 12+
+          years of IT technical support experience which gives me a solid
+          foundation in my software engineering career. I am passioned about
+          building web apps with user friendly interfaces. I have developed and
+          implemented personal web projects using JavaScript, React, Redux,
+          Express, Node.js, MongoDB, HTML, CSS stack of technologies. I am
+          obsessed in continuing gaining experience by building websites using
+          my skills.
         </h3>
       </div>
     </div>
