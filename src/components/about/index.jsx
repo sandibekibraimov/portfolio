@@ -23,10 +23,13 @@ const Index = () => {
           years of IT technical support experience which gives me a solid
           foundation in my software engineering career. I am passioned about
           building web apps with user friendly interfaces. I have developed and
-          implemented personal web projects using JavaScript, React, Redux,
-          Express, Node.js, MongoDB, HTML, CSS stack of technologies. I am
-          obsessed in continuing gaining experience by building websites using
-          my skills.
+          implemented personal web projects using{' '}
+          <strong>
+            JavaScript, React, Redux, Express, Node.js, MongoDB, HTML, CSS stack
+            of technologies.
+          </strong>{' '}
+          I am obsessed in continuing gaining experience by building websites
+          using my skills.
         </h3>
       </div>
     </div>
