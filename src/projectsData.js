@@ -69,4 +69,14 @@ export const projectsData = [
     link: 'https://aqueous-cliffs-87062.herokuapp.com/',
     github: 'https://github.com/sandibekibraimov/social-media-app',
   },
+  {
+    id: 9,
+    name: 'E-Commerce website using HTML, CSS and JavaScript',
+    img: '/assets/ecommerce.png',
+    description:
+      'E-commerce website using HTML, CSS and JavaScript. Created on lama dev bootcamp. ',
+    link: 'https://e-commerce-html-css-javascript-bootcamp.netlify.app/',
+    github:
+      'https://github.com/sandibekibraimov/e-commerce-html-css-javascript',
+  },
 ];
